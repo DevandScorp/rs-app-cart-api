@@ -1,0 +1,5 @@
+# ignore local node_modules, package-lock and dist folders, image will rebuild project and reinstall dependencies
+node_modules/
+dist/
+package-lock.json
+.elasticbeanstalk/*
