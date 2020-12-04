@@ -13,4 +13,4 @@
 
 FE PR link: https://github.com/DevandScorp/aws-shop-frontend/pull/5
 
-Link to working API: http://devandscorp-cart-api-development.eu-west-1.elasticbeanstalk.com/api
+Link to working API: http://devandscorp-cart-api-development.eu-west-1.elasticbeanstalk.com/api/profile/cart
